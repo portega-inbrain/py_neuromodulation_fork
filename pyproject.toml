@@ -39,6 +39,7 @@ dependencies = [
   "mrmr-selection",
   "nolds",
   "numba",
+  "llvmlite == 0.31.0",
   "numpy >= 1.21.2",
   "pandas >= 1.2.2",
   "pip",
